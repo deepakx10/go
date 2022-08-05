@@ -1,0 +1,4 @@
+# Commands to format gofiles 
+~/go/bin/goimports -l -w ch1/
+# -l list files with formatting issues, -w changes them 
+
